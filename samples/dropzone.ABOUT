@@ -1,0 +1,16 @@
+name: dropzone
+license_spdx: MIT
+copyright: Matias Meno
+version: 2015-06-01
+
+# Something missing? Let us know: contact@triplecheck.de
+
+spec_version: 1.0
+download_url: none
+home_url: http://www.dropzonejs.com
+
+# when was this ABOUT file created or last updated?
+date: 2015-09-14
+
+# files inside this folder and sub-folders
+about_resource: ./

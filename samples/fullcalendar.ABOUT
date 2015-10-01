@@ -1,0 +1,18 @@
+name: FullCalendar Stylesheet
+license_spdx: MIT
+copyright: (c) 2013 Adam Shaw
+version: 2.1.1
+home_url: http://arshaw.com/fullcalendar/
+download_url: none
+
+# which files belong to this component?
+about_resource: fullcalendar.min.css
+about_resource: fullcalendar.min.js
+
+
+# when was this ABOUT file created or last updated?
+date: 2015-09-16
+
+# Something missing? Let us know: contact@triplecheck.de
+spec_version: 1.0
+

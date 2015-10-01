@@ -1,0 +1,19 @@
+name: FontAwesome
+license_spdx: Proprietary
+license_url: none
+#author: N/A
+copyright: Copyright (c) 2014 Dave Gandy
+version: 4.2.0 2013
+home_url: none
+download_url: none
+
+# which files belong to this component?
+about_resource: ./
+
+
+# when was this ABOUT file created or last updated?
+date: 2015-09-16
+
+# Something missing? Let us know: contact@triplecheck.de
+spec_version: 1.0
+

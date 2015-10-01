@@ -1,0 +1,16 @@
+name: bootstrap-timepicker
+license_spdx: MIT
+copyright: Copyright (c) 2013 Joris de Wit
+version: 0.2.5 
+home_url: http://jdewit.github.com/bootstrap-timepicker 
+download_url: none
+
+# which files belong to this component?
+about_resource: bootstrap-timepicker.min.js
+
+# when was this ABOUT file created or last updated?
+date: 2015-09-16
+
+# Something missing? Let us know: contact@triplecheck.de
+spec_version: 1.0
+
