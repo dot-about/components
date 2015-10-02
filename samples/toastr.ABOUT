@@ -1,0 +1,17 @@
+name: Toastr
+description: Simple javascript toast notifications
+license_spdx: MIT
+copyright: Copyright © 2012-2014 Hans Fjällemark, John Papa & Tim Ferrell.
+version: N/A
+home_url: hhttp://codeseven.github.io/toastr/
+download_url: https://github.com/CodeSeven/toastr/zipball/master
+
+# which files belong to this component?
+about_resource: toastr.min.js
+
+# when was this ABOUT file created or last updated?
+date: 2015-09-16
+
+# Something missing? Let us know: contact@triplecheck.de
+spec_version: 1.0
+
