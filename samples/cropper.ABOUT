@@ -1,0 +1,16 @@
+name: Cropper
+license_spdx: MIT
+copyright: Fengyuan Chen
+home_url: https://github.com/fengyuanchen/cropper
+version: 0.5.5
+
+# Something missing? Let us know: contact@triplecheck.de
+
+spec_version: 1.0
+download_url: https://github.com/fengyuanchen/cropper
+
+# when was this ABOUT file created or last updated?
+date: 2015-09-14
+
+# files inside this folder and sub-folders
+about_resource: ./
