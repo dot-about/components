@@ -1,0 +1,21 @@
+name: jQuery twitter bootstrap wizard plugin
+license_spdx: MIT
+license_url: http://www.opensource.org/licenses/mit-license.php
+author: Vadim Vincent Gabriel
+author: Jason Gill (www.gilluminate.com)
+copyright: Vadim Vincent Gabriel
+version: 1.0
+home_url: none
+download_url: http://github.com/VinceG/twitter-bootstrap-wizard
+notes: Dual licensed under MIT and GPL
+
+# which files belong to this component?
+about_resource: jquery.bootstrap.wizard.min.js
+
+
+# when was this ABOUT file created or last updated?
+date: 2015-09-16
+
+# Something missing? Let us know: contact@triplecheck.de
+spec_version: 1.0
+

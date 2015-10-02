@@ -1,0 +1,27 @@
+{
+	"bootstrap timepicker" : {
+		"license": "MIT"
+		"copyright": "Copyright (c) 2013 Joris de Wit"
+		"git_url" : "https://raw.githubusercontent.com/dot-about/components/master/samples/bootstrap-timepicker.ABOUT",
+	},
+  "jQuery UI" : {
+    "copyright" : "Copyright 2014 jQuery Foundation and other contributors",
+    "git_url" : "https://raw.githubusercontent.com/dot-about/components/master/samples/jquery.ui.ABOUT",
+    "license" : "MIT"
+  },
+  "jQuery Validation Plugin" : {
+    "copyright" : "Copyright (c) 2014 Jörn Zaefferer",
+    "git_url" : "https://raw.githubusercontent.com/dot-about/components/master/samples/jquery.validation.plugin.ABOUT",
+    "license" : "MIT"
+  },
+  "jquery selectBoxIt" : {
+    "copyright" : "Copyright (c) 2013 Greg Franko",
+    "git_url" : "https://raw.githubusercontent.com/dot-about/components/master/samples/jquery.selectBoxIt.ABOUT",
+    "license" : "MIT"
+  },
+  "jquery tocify" : {
+    "copyright" : "Copyright (c) 2013 Greg Franko",
+    "git_url" : "https://raw.githubusercontent.com/dot-about/components/master/samples/jquery-tocify.ABOUT",
+    "license" : "MIT"
+  }
+}

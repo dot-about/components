@@ -1,0 +1,18 @@
+name: Highlight.js
+license_spdx: BSD-3-Clause
+license_url: https://github.com/isagalaev/highlight.js/blob/master/LICENSE
+copyright: Copyright (c) 2006, Ivan Sagalaev
+version: 8.5
+home_url: https://highlightjs.org
+download_url: https://github.com/isagalaev/highlight.js
+notes: Diverse authors referenced inside the "styles" folder
+
+# which files belong to this component?
+about_resource: ./
+
+# when was this ABOUT file created or last updated?
+date: 2015-09-16
+
+# Something missing? Let us know: contact@triplecheck.de
+spec_version: 1.0
+
