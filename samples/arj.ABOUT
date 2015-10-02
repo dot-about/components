@@ -1,0 +1,13 @@
+name: ARJ
+description: File Archiver ARJ
+version: 3.20
+license_spdx: Proprietary
+copyright: Copyright ©2000-2011 ARJ Software. All rights reserved.
+
+home_url: http://www.arjsoftware.com/
+download_url: http://www.arjsoftware.com/files.htm
+
+spec_version: 1.0
+date: 2015-09-12
+
+about_resource: ./
