@@ -1,0 +1,16 @@
+name: jquery.selectBoxIt
+license_spdx: MIT
+copyright: Copyright (c) 2013 Greg Franko
+version: 3.5.1
+home_url: http://www.selectboxit.com
+download_url: none
+
+# which files belong to this component?
+about_resource: jquery.selectBoxIt.min.js
+
+# when was this ABOUT file created or last updated?
+date: 2015-09-16
+
+# Something missing? Let us know: contact@triplecheck.de
+spec_version: 1.0
+
