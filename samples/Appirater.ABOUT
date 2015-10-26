@@ -1,0 +1,10 @@
+name: iOS Appirater
+description: iOS Appirater component for app rating
+license_spdx: MIT
+copyright: Copyright (c) 2012, Arash Payan
+home_url: http://arashpayan.com
+download_url: https://github.com/arashpayan/appirater
+
+spec_version: 1.0
+date: 2015-10-26
+about_resource: ./
